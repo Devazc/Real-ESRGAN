@@ -1,4 +1,5 @@
 ---
+
 title: Real ESRGAN
 emoji:    🤗
 colorFrom: gray
@@ -7,16 +8,16 @@ sdk: gradio
 sdk_version: 3.23.0
 app_file: app.py
 pinned: false
+
 ---
 
-
-<p align="center">
+<p align="left">
   <img src="assets/realesrgan_logo.png" height=120>
 </p>
 
-## <div align="center"><b><a href="README.md">English</a> | <a href="README_CN.md">简体中文</a></b></div>
+## <div align="left"><b><a href="README.md">English</a> | <a href="README_CN.md">简体中文</a></b></div>
 
-<div align="center">
+<div align="left">
 
 👀[**Demos**](#-demos-videos) **|** 🚩[**Updates**](#-updates) **|** ⚡[**Usage**](#-quick-inference) **|** 🏰[**Model Zoo**](docs/model_zoo.md) **|** 🔧[Install](#-dependencies-and-installation)  **|** 💻[Train](docs/Training.md) **|** ❓[FAQ](docs/FAQ.md) **|** 🎨[Contribution](docs/CONTRIBUTING.md)
 
