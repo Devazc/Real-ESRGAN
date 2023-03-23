@@ -1,3 +1,15 @@
+---
+title: Real ESRGAN
+emoji:    🤗
+colorFrom: gray
+colorTo: green
+sdk: gradio
+sdk_version: 3.23.0
+app_file: app.py
+pinned: false
+---
+
+
 <p align="center">
   <img src="assets/realesrgan_logo.png" height=120>
 </p>
