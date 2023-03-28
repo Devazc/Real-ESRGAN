@@ -8,3 +8,16 @@ Pillow
 torch>=1.7
 torchvision
 tqdm
+torch
+opencv-python-headless
+setuptools
+gradio
+addict
+future
+lmdb
+pyyaml
+requests
+scikit-image
+scipy
+tb-nightly
+yapf
